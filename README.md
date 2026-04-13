@@ -127,8 +127,8 @@ Press `Ctrl+C` in the terminal to stop the app.
 
 ## License
 
-Educational/research use. Do whatever you want with it.
+Educational/research use. Do whatever you want with it. I love u
 
 ---
 
-*Made by [Ellie Phan](https://github.com/ankhanhcute)*
+*Made by [Ellie Truong](https://github.com/ankhanhcute)*
